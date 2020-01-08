@@ -16,7 +16,7 @@ public void sum()
 	{
 		parameters obj1 = new parameters();
 		obj1.sum(5,10);
-		System.out.println();
+		System.out.println("mmmxx");
 
 	}
 
