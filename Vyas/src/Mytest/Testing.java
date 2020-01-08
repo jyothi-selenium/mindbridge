@@ -20,7 +20,7 @@ public static void	sum()
 		//obj1.sum();
 		//System.out.println(obj1.x );
 		
-		//Testing.sum();
+
 		System.out.println(Testing.x);
 		
 		
